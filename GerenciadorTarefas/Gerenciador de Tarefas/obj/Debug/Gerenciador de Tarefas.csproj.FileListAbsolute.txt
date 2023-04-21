@@ -1,0 +1,11 @@
+C:\Users\gladi\Desktop\projetos\Gerenciador de Tarefas\GerenciadorTarefas\Gerenciador de Tarefas\bin\Debug\Gerenciador de Tarefas.exe.config
+C:\Users\gladi\Desktop\projetos\Gerenciador de Tarefas\GerenciadorTarefas\Gerenciador de Tarefas\bin\Debug\Gerenciador de Tarefas.exe
+C:\Users\gladi\Desktop\projetos\Gerenciador de Tarefas\GerenciadorTarefas\Gerenciador de Tarefas\bin\Debug\Gerenciador de Tarefas.pdb
+C:\Users\gladi\Desktop\projetos\Gerenciador de Tarefas\GerenciadorTarefas\Gerenciador de Tarefas\obj\Debug\Gerenciador de Tarefas.csproj.AssemblyReference.cache
+C:\Users\gladi\Desktop\projetos\Gerenciador de Tarefas\GerenciadorTarefas\Gerenciador de Tarefas\obj\Debug\Gerenciador de Tarefas.csproj.SuggestedBindingRedirects.cache
+C:\Users\gladi\Desktop\projetos\Gerenciador de Tarefas\GerenciadorTarefas\Gerenciador de Tarefas\obj\Debug\Gerenciador_de_Tarefas.Form1.resources
+C:\Users\gladi\Desktop\projetos\Gerenciador de Tarefas\GerenciadorTarefas\Gerenciador de Tarefas\obj\Debug\Gerenciador_de_Tarefas.Properties.Resources.resources
+C:\Users\gladi\Desktop\projetos\Gerenciador de Tarefas\GerenciadorTarefas\Gerenciador de Tarefas\obj\Debug\Gerenciador de Tarefas.csproj.GenerateResource.cache
+C:\Users\gladi\Desktop\projetos\Gerenciador de Tarefas\GerenciadorTarefas\Gerenciador de Tarefas\obj\Debug\Gerenciador de Tarefas.csproj.CoreCompileInputs.cache
+C:\Users\gladi\Desktop\projetos\Gerenciador de Tarefas\GerenciadorTarefas\Gerenciador de Tarefas\obj\Debug\Gerenciador de Tarefas.exe
+C:\Users\gladi\Desktop\projetos\Gerenciador de Tarefas\GerenciadorTarefas\Gerenciador de Tarefas\obj\Debug\Gerenciador de Tarefas.pdb
